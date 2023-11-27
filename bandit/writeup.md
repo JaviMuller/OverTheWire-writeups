@@ -1,0 +1,38 @@
+[comment]: # (Javier de Muller - 2023)
+# Bandit Writeups
+
+This is an introductory wargame just to get some familiarity with some of the tools in linux.
+
+## Levels
+
+- [Level 0](lvl0.md)
+- [Level 1](lvl1.md)
+- [Level 2](lvl2.md)
+- [Level 3](lvl3.md)
+- [Level 4](lvl4.md)
+- [Level 5](lvl5.md)
+- [Level 6](lvl6.md)
+- [Level 7](lvl7.md)
+- [Level 8](lvl8.md)
+- [Level 9](lvl9.md)
+- [Level 10](lvl10.md)
+- [Level 11](lvl11.md)
+- [Level 12](lvl12.md)
+- [Level 13](lvl13.md)
+- [Level 14](lvl14.md)
+- [Level 15](lvl15.md)
+- [Level 16](lvl16.md)
+- [Level 17](lvl17.md)
+- [Level 18](lvl18.md)
+- [Level 19](lvl19.md)
+- [Level 20](lvl20.md)
+- [Level 21](lvl21.md)
+- [Level 22](lvl22.md)
+- [Level 23](lvl23.md)
+- [Level 24](lvl24.md)
+- [Level 25](lvl25.md)
+- [Level 26](lvl26.md)
+- [Level 27](lvl27.md)
+- [Level 28](lvl28.md)
+- [Level 29](lvl29.md)
+- [Level 30](lvl30.md)
